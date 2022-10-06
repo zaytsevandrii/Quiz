@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zaytsevandrii.github.io/Quiz/static/css/main.645c60eb.css",
+    "main.js": "/zaytsevandrii.github.io/Quiz/static/js/main.3d15c698.js",
+    "index.html": "/zaytsevandrii.github.io/Quiz/index.html",
+    "main.645c60eb.css.map": "/zaytsevandrii.github.io/Quiz/static/css/main.645c60eb.css.map",
+    "main.3d15c698.js.map": "/zaytsevandrii.github.io/Quiz/static/js/main.3d15c698.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.645c60eb.css",
+    "static/js/main.3d15c698.js"
+  ]
+}
