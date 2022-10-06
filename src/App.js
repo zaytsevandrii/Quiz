@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './index.scss';
+import './index.css';
 
 const questions = [
   {
@@ -28,7 +28,7 @@ function Result({correctAnswer}) {
     <div className="result">
       <img src="https://cdn-icons-png.flaticon.com/512/2278/2278992.png" />
       <h2>You guessed {correctAnswer} correct {correctAnswer==1?'answer':'answers'} out of {questions.length}</h2>
-      <a href='/'> <button>Try again</button></a>
+      <a href='/'> <button className='btnCheck'>Try again</button></a>
     </div>
   );
 }
