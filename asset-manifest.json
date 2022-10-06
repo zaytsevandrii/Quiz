@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/zaytsevandrii.github.io/quiz/static/css/main.645c60eb.css",
-    "main.js": "/zaytsevandrii.github.io/quiz/static/js/main.3d15c698.js",
+    "main.css": "/zaytsevandrii.github.io/quiz/static/css/main.e4b21973.css",
+    "main.js": "/zaytsevandrii.github.io/quiz/static/js/main.da44d0ce.js",
     "index.html": "/zaytsevandrii.github.io/quiz/index.html",
-    "main.645c60eb.css.map": "/zaytsevandrii.github.io/quiz/static/css/main.645c60eb.css.map",
-    "main.3d15c698.js.map": "/zaytsevandrii.github.io/quiz/static/js/main.3d15c698.js.map"
+    "main.e4b21973.css.map": "/zaytsevandrii.github.io/quiz/static/css/main.e4b21973.css.map",
+    "main.da44d0ce.js.map": "/zaytsevandrii.github.io/quiz/static/js/main.da44d0ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.645c60eb.css",
-    "static/js/main.3d15c698.js"
+    "static/css/main.e4b21973.css",
+    "static/js/main.da44d0ce.js"
   ]
 }
